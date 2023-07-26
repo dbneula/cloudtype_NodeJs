@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/dbneula/cloudtype_NodeJs/issues"
   },
-  "homepage": "https://github.com/dbneula/cloudtype_NodeJs#readme"
+  "homepage": "https://github.com/dbneula/cloudtype_NodeJs#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/node": "^7.22.6"
+  }
 }
