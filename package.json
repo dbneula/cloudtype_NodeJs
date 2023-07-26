@@ -1,0 +1,20 @@
+{
+  "name": "cloudtype_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbneula/cloudtype_NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbneula/cloudtype_NodeJs/issues"
+  },
+  "homepage": "https://github.com/dbneula/cloudtype_NodeJs#readme"
+}
